@@ -20,4 +20,5 @@ The resulting robot project operates as intended, serving as a **mobile robot co
 ### Documentation
 For more detailed information and technical specifications, please refer to the documentation provided in PDF format. The documentation contains in-depth explanations, diagrams, and code examples to help you better understand and utilize the project.
 
+### BB-8 robot visualization
 <img src="https://github.com/lisajankk/bb8/assets/124843836/2f3ff82f-f133-4a89-aef0-1913e1fd5578" width="400">
